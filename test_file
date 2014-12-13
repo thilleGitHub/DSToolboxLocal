@@ -1,0 +1,16 @@
+## This is a test file
+
+### Hello World!
+
+.pwd - Print Working Directory
+.clear - 
+. ls - list files in current working directory
+.cd - change directories
+. mkdir - make or create a directory
+. touch - create a new file
+. cp - copy file or directory
+. rm - remove file or directory
+. mv - move and or rename a file
+. date - look at date a file was created or modified
+. echo - print out a command
+
